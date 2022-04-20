@@ -24,3 +24,7 @@ With the dream of becoming a good mobile developer and evolving more and more in
  <b>
 </li>
 </div>
+ 
+ <p align="center">
+        <img src="https://github.com/DaviEd-kyter/DaviEd-kyter/blob/main/Bottom.svg" alt="Github Stats" />
+</p>
