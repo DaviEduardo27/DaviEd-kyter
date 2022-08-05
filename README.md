@@ -11,6 +11,7 @@
 
 <div>
 <h2 align="center"> 🐼 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐼 </h2>
+
 <img src="https://64.media.tumblr.com/cee77c64acbb399e200f69d6bf3998fa/604e9c3efd9ce984-51/s540x810/0fa0769c239d754945999435296a58192ac731df.gifv" align="right">
 <li>
 <b>I like/love:</b> anime, games, programming
