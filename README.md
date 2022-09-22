@@ -5,6 +5,11 @@
  
  ## - 🌱 I’m currently learning mobile development 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />       
+         
+
 <br>
 </h1>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviEd-kyter&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
