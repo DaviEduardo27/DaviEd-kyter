@@ -12,12 +12,12 @@
 
 <br>
 </h1>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviEd-kyter&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviEduardo27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
 
 <div>
 <h2 align="center"> 🐼 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐼 </h2>
 
-<img src="https://github.com/DaviEd-kyter/DaviEd-kyter/blob/main/tumblr_cee77c64acbb399e200f69d6bf3998fa_0fa0769c_540.webp" align="right">
+<img src="https://github.com/DaviEduardo27/DaviEduardo27/blob/main/tumblr_cee77c64acbb399e200f69d6bf3998fa_0fa0769c_540.webp" align="right">
 <li>
 <b>I like/love:</b> anime, games, programming
  <b>
@@ -32,5 +32,5 @@ With the dream of becoming a good mobile developer and evolving more and more in
 </div>
  
  <p align="center">
-        <img src="https://github.com/DaviEd-kyter/DaviEd-kyter/blob/main/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/DaviEduardo27/DaviEduardo27/blob/main/Bottom.svg" alt="Github Stats" />
 </p>
